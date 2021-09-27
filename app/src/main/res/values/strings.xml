@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">DiceRoller</string>
+    <string name="roll_label">Roll!</string>
+    <string name="second_roll_label">Roll Two Dices!</string>
+    <string name="count_up_label">+1 Dice One!</string>
+    <string name="count_up_two_label">+1 Dice Two!</string>
+    <string name="count_up_all_label">+1 All! </string>
+    <string name="roll_button_clicked">Dice Rolled</string>
+    <string name="roll_two_button_clicked">Dices Rolled</string>
+    <string name="count_up_button_clicked">1 up</string>
+    <string name="reset_button_label">Reset!</string>
+    <string name="reset_button_clicked">Roll Again!</string>
+    <string name="text_view_sum_label">Roll a Dice</string>
+</resources>

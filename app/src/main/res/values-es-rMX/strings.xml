@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LanzaDados</string>
+    <string name="roll_label">Lanzar!</string>
+    <string name="second_roll_label">Lanzar 2 Dados!</string>
+    <string name="count_up_label">+1 Dado uno!</string>
+    <string name="count_up_two_label">+1 Dado Dos!</string>
+    <string name="count_up_all_label">+1 Todos! </string>
+    <string name="roll_button_clicked">Dado Lanzado</string>
+    <string name="roll_two_button_clicked">Dados Lanzados</string>
+    <string name="count_up_button_clicked">1 mas</string>
+    <string name="reset_button_label">Reiniciar!</string>
+    <string name="reset_button_clicked">Lanza otra!</string>
+    <string name="text_view_sum_label">Lanza dados</string>
+</resources>
